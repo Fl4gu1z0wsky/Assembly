@@ -1,0 +1,4 @@
+C:\Users\flavio\source\repos\moderassembly\chapitre2\x64\Debug\chapitre2.exe
+C:\Users\flavio\source\repos\moderassembly\chapitre2\x64\Debug\chapitre2.pdb
+C:\Users\flavio\source\repos\modernassembly\chapitre2\x64\Debug\chapitre2.exe
+C:\Users\flavio\source\repos\modernassembly\chapitre2\x64\Debug\chapitre2.pdb

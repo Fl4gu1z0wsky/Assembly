@@ -1,0 +1,23 @@
+***********************
+*    CPU Registers    *
+***********************
+
+the registers:
+	EAX, EDX, ECX, ESI, EDI, EBP, ESP, EBX
+
+EAX:
+	accumulator register -> for performing calcul	
+EDX:
+	data register -> assists EAX in monitoring extra data
+ECX:
+	count register -> for looping operation (count downward)
+ESI:
+	source index -> holds the location of the input data stream (read)
+EDI:
+	destination index -> points to the location where the result of a data is stored (write)
+ESP:
+	stack pointer -> points to the very top of the stack
+EBP:
+	base pointer -> points to the bottom of the stack
+EBX:
+	-> was not designed for anything, it is free to use !
